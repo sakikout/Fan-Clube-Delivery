@@ -30,7 +30,7 @@ Neste trabalho não será considerada a perspectiva do restaurante para o uso do
 
 ### 4. Protótipo
 
-Além de possuir uma sidebar para navegação, o projeto terá as seguintes páginas:
+Além de possuir uma sidebar para navegação, o contemplará as seguintes páginas:
 - Login e Sign in;
 - Progresso de Entrega;
 - Chat com Restaurante e/ou Motorista;
@@ -39,3 +39,4 @@ Além de possuir uma sidebar para navegação, o projeto terá as seguintes pág
 - Pagamento (Check-in);
 - Configurações.
 
+As páginas estão sendo prototipadas no [Figma](https://www.figma.com/design/OtLioskCN4mc9hX3vSTpwk/Fan-Club-Delivery?node-id=4-137&t=vJl7Nx57yWordrTt-1), disponíveis apenas para visualização.
