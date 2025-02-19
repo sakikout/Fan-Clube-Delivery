@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380970287726",
+    "project_id": "fa-clube-delivery",
+    "storage_bucket": "fa-clube-delivery.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380970287726:android:6547bf06d5c334ac2b1c7f",
+        "android_client_info": {
+          "package_name": "www.faclubedelivery.c"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg2EQ57xPPQCH4kzDiVVC8_h65Vo38T3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
